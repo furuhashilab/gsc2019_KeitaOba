@@ -1,5 +1,9 @@
 # gsc2019_ゼミ論用レポジトリー_KeitaOba
 
+<h4>ゼミ論概要<h4>
+
+https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
+
 <h4>ゼミ論中間発表(2019.11.18)</h4>
 
 https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN37M/edit?usp=sharing
