@@ -17,6 +17,8 @@ https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN
 
 https://docs.google.com/presentation/d/10CZG8OY4s6Kq77CuX3djnii-HdcZ0u4abUN2wTbLnWA/edit?usp=sharing
 
+質疑応答：https://github.com/furuhashilab/gsc2019_KeitaOba/issues/4
+
 ***
 ### 目次
 
