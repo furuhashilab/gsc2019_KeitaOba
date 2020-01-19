@@ -256,7 +256,7 @@ https://www.hitoe-toray.com/
 
 2020年現在までに、必要最低限の機能を搭載したテストサイトを構築した。
 
-file:///Users/keitaoba/Desktop/app/app.html
+https://keitaoba828.github.io/tsunagu-application/app.html
 
 消費者が服の生産者の距離を近く感じ服への思いやりを持つ機会を促すことを目的に、Webサイトのテスト版の構築を行なった。
 
