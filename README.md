@@ -333,3 +333,13 @@ https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2Q
 また、本アプリのリソースの為の費用はもちろん、「施策③大型の資金調達」がエシカルファッション領域に置いて有効なのかを検証する為に開発を遂行し、実践をしていくことでより深い研究結果が得られると考えている。
 
 本ゼミ論を元に、2020年度の卒業論文にて引き続き本テーマでの研究を行なっていく。
+
+### 第8章　参考物件
+
+[フェアトレードのおかしな真実](https://www.amazon.co.jp/%E4%B8%8D%E9%83%BD%E5%90%88%E3%81%AA%E7%9C%9F%E5%AE%9F-%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B4%E3%82%A2/dp/427000181X)
+
+[ESD（持続可能な開発のための教育）推進の手引](https://www.mext.go.jp/unesco/004/__icsFiles/afieldfile/2018/07/05/1405507_01_2.pdf)
+
+[ハピ研　洋服購入時のポイントは？](https://www.asahigroup-holdings.com/company/research/hapiken/maian/bn/200804/00231/)
+
+[ちょっと考えて、ぐっといい未来 エシカル消費](https://www.shouhiseikatu.metro.tokyo.jp/manabitai/ethical/)
