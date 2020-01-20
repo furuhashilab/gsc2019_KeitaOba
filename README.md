@@ -4,24 +4,16 @@
 ### 1A117035 大庭啓太
 ### 指導教員　古橋大地教授
 
-#### ゼミ論概要
+#### [ゼミ論概要](https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing)
 
-[foo]:https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
+#### [ゼミ論本文](https://furuhashilab.github.io/gsc2019_KeitaOba/)
 
-#### ゼミ論本文
-
-[foo]: https://furuhashilab.github.io/gsc2019_KeitaOba/
-
-#### ゼミ論中間発表(2019.11.18)
-
-[foo]: https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN37M/edit?usp=sharing
+#### [ゼミ論中間発表(2019.11.18)](https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN37M/edit?usp=sharing)
 
 
-#### ゼミ論発表(2020.01.20)
+#### [ゼミ論発表(2020.01.20)](https://docs.google.com/presentation/d/10CZG8OY4s6Kq77CuX3djnii-HdcZ0u4abUN2wTbLnWA/edit?usp=sharing)
 
-[foo]: https://docs.google.com/presentation/d/10CZG8OY4s6Kq77CuX3djnii-HdcZ0u4abUN2wTbLnWA/edit?usp=sharing
-
-質疑応答：[foo]: https://github.com/furuhashilab/gsc2019_KeitaOba/issues/4
+[質疑応答](https://github.com/furuhashilab/gsc2019_KeitaOba/issues/4)
 
 ***
 ### 目次
@@ -249,21 +241,24 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 ##### ファッション×位置情報
 
-"WEAR YOU ARE"  [foo]: https://wearyouare.jp/sp/
+ ["WEAR YOU ARE"](https://wearyouare.jp/sp/)
 
-"D-Shirt"  [foo]: https://youtu.be/Ld_MVxGT1GY
+ ["D-Shirt"](https://youtu.be/Ld_MVxGT1GY)
 
 
 ###### ファッション（ビジネス・集客）×位置情報
 
-[foo]: https://cxclip.karte.io/topic/geotargeting/
+[“WEAR YOU ARE”](https://cxclip.karte.io/topic/geotargeting/)
 
-[foo]: https://paymentnavi.com/paymentnews/31089.html
+[“D-Shirt” ](https://paymentnavi.com/paymentnews/31089.html)
 
 
 ###### ファッション×テクノロジー（ヘルスケア）
 
-[foo]: https://www.hitoe-toray.com/
+[ジオターゲティングで位置情報に合わせた適切なアプローチが可能に](https://cxclip.karte.io/topic/geotargeting/)
+
+
+[スマートフォンのアプリと位置情報を活用した斬新なサービスを展開（ジーユー）]: (https://www.hitoe-toray.com/)
 
 
 #### テストサイト
