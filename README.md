@@ -338,7 +338,7 @@ https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2Q
 
 本ゼミ論を元に、2020年度の卒業論文にて引き続き本テーマでの研究を行なっていく。
 
-### 第8章　参考物件
+### 第8章　参考文献
 
 [フェアトレードのおかしな真実](https://www.amazon.co.jp/%E4%B8%8D%E9%83%BD%E5%90%88%E3%81%AA%E7%9C%9F%E5%AE%9F-%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B4%E3%82%A2/dp/427000181X)
 
