@@ -241,24 +241,20 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 ##### ファッション×位置情報
 
- ["WEAR YOU ARE"](https://wearyouare.jp/sp/)
+“WEAR YOU ARE” https://wearyouare.jp/sp/
 
- ["D-Shirt"](https://youtu.be/Ld_MVxGT1GY)
+“D-Shirt” https://youtu.be/Ld_MVxGT1GY
 
+#####  ファッション（ビジネス・集客）×位置情報
 
-###### ファッション（ビジネス・集客）×位置情報
+ジオターゲティングで位置情報に合わせた適切なアプローチが可能に https://cxclip.karte.io/topic/geotargeting/
 
-[“WEAR YOU ARE”](https://cxclip.karte.io/topic/geotargeting/)
+スマートフォンのアプリと位置情報を活用した斬新なサービスを展開（ジーユー） https://paymentnavi.com/paymentnews/31089.html
 
-[“D-Shirt” ](https://paymentnavi.com/paymentnews/31089.html)
+##### ファッション×テクノロジー（ヘルスケア）
 
+https://www.hitoe-toray.com/
 
-###### ファッション×テクノロジー（ヘルスケア）
-
-[ジオターゲティングで位置情報に合わせた適切なアプローチが可能に](https://cxclip.karte.io/topic/geotargeting/)
-
-
-[スマートフォンのアプリと位置情報を活用した斬新なサービスを展開（ジーユー）]: (https://www.hitoe-toray.com/)
 
 
 #### テストサイト
