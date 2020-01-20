@@ -343,3 +343,5 @@ https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2Q
 [ハピ研　洋服購入時のポイントは？](https://www.asahigroup-holdings.com/company/research/hapiken/maian/bn/200804/00231/)
 
 [ちょっと考えて、ぐっといい未来 エシカル消費](https://www.shouhiseikatu.metro.tokyo.jp/manabitai/ethical/)
+
+参考文献リスト：https://docs.google.com/spreadsheets/d/174jl-ogH3FBTaF8miNLOorD5lDfXzhEpc6h1oeVztmA/edit?usp=sharing
