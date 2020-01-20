@@ -6,7 +6,7 @@
 
 #### ゼミ論概要
 
-[foo]: https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
+[foo]:https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
 
 #### ゼミ論本文
 
