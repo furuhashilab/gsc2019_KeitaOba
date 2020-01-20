@@ -310,12 +310,12 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 #### 事業計画書
 
-[foo]: https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing
+https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing
 
 
 #### 売上予想、損益計算書予想
 
-[foo]: https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing
 
 #### 結果・考察
 
