@@ -6,22 +6,22 @@
 
 #### ゼミ論概要
 
-https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
+[foo]: https://docs.google.com/document/d/11opLZBs7V8CeDgBs0FtdtUhtt-2z6h-eO4fa9uZxfKI/edit?usp=sharing
 
 #### ゼミ論本文
 
-https://furuhashilab.github.io/gsc2019_KeitaOba/
+[foo]: https://furuhashilab.github.io/gsc2019_KeitaOba/
 
 #### ゼミ論中間発表(2019.11.18)
 
-https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN37M/edit?usp=sharing
+[foo]: https://docs.google.com/presentation/d/1a8ZFU0KJ3vbhHrrgYUB2exgsQvU349pWdyDjD7sN37M/edit?usp=sharing
 
 
 #### ゼミ論発表(2020.01.20)
 
-https://docs.google.com/presentation/d/10CZG8OY4s6Kq77CuX3djnii-HdcZ0u4abUN2wTbLnWA/edit?usp=sharing
+[foo]: https://docs.google.com/presentation/d/10CZG8OY4s6Kq77CuX3djnii-HdcZ0u4abUN2wTbLnWA/edit?usp=sharing
 
-質疑応答：https://github.com/furuhashilab/gsc2019_KeitaOba/issues/4
+質疑応答：[foo]: https://github.com/furuhashilab/gsc2019_KeitaOba/issues/4
 
 ***
 ### 目次
@@ -249,28 +249,28 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 ##### ファッション×位置情報
 
-"WEAR YOU ARE"  https://wearyouare.jp/sp/
+"WEAR YOU ARE"  [foo]: https://wearyouare.jp/sp/
 
-"D-Shirt"  https://youtu.be/Ld_MVxGT1GY
+"D-Shirt"  [foo]: https://youtu.be/Ld_MVxGT1GY
 
 
 ###### ファッション（ビジネス・集客）×位置情報
 
-https://cxclip.karte.io/topic/geotargeting/
+[foo]: https://cxclip.karte.io/topic/geotargeting/
 
-https://paymentnavi.com/paymentnews/31089.html
+[foo]: https://paymentnavi.com/paymentnews/31089.html
 
 
 ###### ファッション×テクノロジー（ヘルスケア）
 
-https://www.hitoe-toray.com/
+[foo]: https://www.hitoe-toray.com/
 
 
 #### テストサイト
 
 2020年現在までに、必要最低限の機能を搭載したテストサイトを構築した。
 
-https://keitaoba828.github.io/tsunagu-application/app.html
+[foo]: https://keitaoba828.github.io/tsunagu-application/app.html
 
 消費者が服の生産者の距離を近く感じ服への思いやりを持つ機会を促すことを目的に、Webサイトのテスト版の構築を行なった。
 
@@ -315,12 +315,12 @@ https://keitaoba828.github.io/tsunagu-application/app.html
 
 #### 事業計画書
 
-https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing
+[foo]: https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing
 
 
 #### 売上予想、損益計算書予想
 
-https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing
+[foo]: https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing
 
 #### 結果・考察
 
