@@ -149,7 +149,7 @@ Education for Sustainable Developmentの略で「持続可能な開発のため�
 
 2019年7月23日から8月5日の１３日間、クラウドファンディングサイトCampfireで2３万円を目標にプロジェクトを行なった。プロジェクト方式は、目標金額が集まらなかった場合は、集まった金額を関係なしに全て返金される「ALL OR NOTHING方式」を採用した。
 
-クラウドファンディング プロジェクトページ：https://camp-fire.jp/projects/view/173789?list=watched
+[クラウドファンディング プロジェクトページ](https://camp-fire.jp/projects/view/173789?list=watched)
 
 #### プロジェクト開始までに準備したこと
 
@@ -198,7 +198,7 @@ Orgabits社は、”地球のために、ちょっといいこと”をコンセ
 
 ・モデル3人の手配
 
-撮影した写真→https://drive.google.com/drive/folders/11xl6kiJIPbNyK79jex7bA10na68Sz_mi?usp=sharing
+[撮影した写真](https://drive.google.com/drive/folders/11xl6kiJIPbNyK79jex7bA10na68Sz_mi?usp=sharing)
 
 
 ##### 3.コンセプトページの公開
@@ -209,7 +209,7 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 「生産者について考えること」を促すためあえてログインページを設定。
 
-コンセプトページ→https://www.tsunagu-product.com/t-shirt
+[コンセプトページ](https://www.tsunagu-product.com/t-shirt)
 
 #### 結果
 
@@ -241,19 +241,19 @@ Campfireの機能上、文字と写真しかのせることが出来ないため
 
 ##### ファッション×位置情報
 
-“WEAR YOU ARE” https://wearyouare.jp/sp/
+[WEAR YOU ARE](https://wearyouare.jp/sp/)
 
-“D-Shirt” https://youtu.be/Ld_MVxGT1GY
+[D-Shirt](https://youtu.be/Ld_MVxGT1GY)
 
 #####  ファッション（ビジネス・集客）×位置情報
 
-ジオターゲティングで位置情報に合わせた適切なアプローチが可能に https://cxclip.karte.io/topic/geotargeting/
+[ジオターゲティングで位置情報に合わせた適切なアプローチが可能に](https://cxclip.karte.io/topic/geotargeting/)
 
-スマートフォンのアプリと位置情報を活用した斬新なサービスを展開（ジーユー） https://paymentnavi.com/paymentnews/31089.html
+[スマートフォンのアプリと位置情報を活用した斬新なサービスを展開（ジーユー）](https://paymentnavi.com/paymentnews/31089.html)
 
 ##### ファッション×テクノロジー（ヘルスケア）
 
-https://www.hitoe-toray.com/
+[hitoe](https://www.hitoe-toray.com/)
 
 
 
@@ -261,7 +261,7 @@ https://www.hitoe-toray.com/
 
 2020年現在までに、必要最低限の機能を搭載したテストサイトを構築した。
 
-[foo]: https://keitaoba828.github.io/tsunagu-application/app.html
+[テストサイト](https://keitaoba828.github.io/tsunagu-application/app.html)
 
 消費者が服の生産者の距離を近く感じ服への思いやりを持つ機会を促すことを目的に、Webサイトのテスト版の構築を行なった。
 
@@ -304,14 +304,10 @@ https://www.hitoe-toray.com/
 
 上記の施策に加え、ビジネスとしてエシカルファッション領域において成長する上で資金の調達は必要になると考えられる。そこで、「TSUNAGU PRODUCT」を題材にエシカルファッション領域においてベンチャーブランドの資金調達の可能性について分析、仮説検証を行なった。
 
-#### 事業計画書
-
-https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing
+#### [事業計画書](https://drive.google.com/file/d/1oKi81nkYmuDrhi6HjB8Ml4017vy4lanl/view?usp=sharing)
 
 
-#### 売上予想、損益計算書予想
-
-https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing
+#### [売上予想、損益計算書予想](https://docs.google.com/spreadsheets/d/1qyMTcVRiwUWZ2f9xAUkoImID89HwYTtsvUiIbX2QfTw/edit?usp=sharing)
 
 #### 結果・考察
 
